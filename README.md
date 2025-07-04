@@ -1,17 +1,53 @@
-# Presentation
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there!%20I'm%20zykogithub%20👋&fontSize=32&fontAlignY=40)
 
-## English
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/zykogithub" width="120" style="border-radius:50%;" alt="zykogithub avatar" />
+</p>
 
-Hi, my name is Naherry and I'm currently studying computer scienc at IUT d'Orsay.
+## 👨‍🎓 About Me
 
-Here, you can find all my project that I participated or made by myself ! There are in pined repositry or in reprositries collection.
+Hi! I'm **zykogithub**, an internship/bachelor student at **Paris Saclay**.  
+I'm passionate about software engineering, machine learning, and building impactful mobile apps.
 
-Go to my instagram page in bio if you want to see what I have done !
+---
 
-## Français
+## 🛠️ Skills
 
-Bonjour, je m'appelle Naherry et je suis actuellement en BUT informatique à l'IUT d'Orsay.
+- **Languages:** C#, Java, Python  
+- **Mobile Development:** Android, cross-platform tools  
+- **Machine Learning:** Model development, data analysis  
+- **Tools:** Git, Visual Studio, IntelliJ, Jupyter
 
-Vous pouvez trouver ici tous les projets auquels j'ai participé ou que j'ai crée ! Ils sont dans dépôts épinglés ou dans la liste de tous mes dépôts
+---
 
-Allez sur mon instagram en bio pour voir ce à quoi ressemble mes projets !
+## 🚀 Featured Project
+
+### [Portfolio Project](#)
+A showcase of my best work in software engineering and machine learning.  
+*See my pinned repos below for more!*
+
+---
+
+## ⚽ My Interests
+
+- Football
+- Basketball
+- Judo
+
+---
+
+## 📫 Let's Connect
+
+- [Professional Instagram](https://www.instagram.com/zykocorp/)
+- [LinkedIn](https://www.linkedin.com/in/naherry-darouèche-357115293)
+- [GitHub Profile](https://github.com/zykogithub)
+
+---
+
+> “Learning by building, growing by sharing.”
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zykogithub&show_icons=true&theme=tokyonight" alt="zykogithub's GitHub stats"/>
+</p>
